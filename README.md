@@ -1,6 +1,8 @@
 # Rename-Bot
 This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=RenameDcbot&theme=tokyonight)](https://github.com/selfie-bd/RenameDcbot&bg_color=#24292F)
+
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
 - Permanent Custom Thumbnail Support.
@@ -31,6 +33,11 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/selfie-bd/RenameDcBot)
+
+<p align="">
+    <a href="https://heroku.com/deploy?template=https://github.com/selfie-bd/RenameDcbot">
+    <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
+</p>
+
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
